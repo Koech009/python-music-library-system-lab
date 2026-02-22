@@ -45,12 +45,12 @@ class Song:
             cls.artist_count[artist] = 1
 
 
-song1 = Song("Halo", "Beyonce", "Pop")
-song2 = Song("Empire State of Mind", "Jay-Z", "Rap")
-song3 = Song("Single Ladies", "Beyonce", "Pop")
+# song1 = Song("Halo", "Beyonce", "Pop")
+# song2 = Song("Empire State of Mind", "Jay-Z", "Rap")
+# song3 = Song("Single Ladies", "Beyonce", "Pop")
 
-print(Song.count)
-print(Song.genres)
-print(Song.artists)
-print(Song.genre_count)
-print(Song.artist_count)
+# print(Song.count)
+# print(Song.genres)
+# print(Song.artists)
+# print(Song.genre_count)
+# print(Song.artist_count)
